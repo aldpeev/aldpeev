@@ -1,12 +1,12 @@
 # Hello, I'm Alex! 👋
 
-I'm a student and an e-commerce entrepreneur, passionate about coding and learning. This is my GitHub space, where I showcase my journey through the tech world.
+This is my GitHub space, where I showcase my journey through the tech world.
 
 ## 🔧 Skills
-👨‍💻 Java, JavaScript
-⚙️ Node.js
-👁️ CSS, HTML
-💽 MySQL, SQL, Mongo
+- 👨‍💻 Java, JavaScript
+- ⚙️ Node.js
+- 👁️ CSS, HTML
+- 💽 MySQL, SQL, Mongo
 
 ## 📚 Repository Highlights
 
