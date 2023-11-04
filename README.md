@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, I'm Alex! 👋
 
-<!--
-**aldpeev/aldpeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and an e-commerce entrepreneur, passionate about coding and learning. This is my GitHub space, where I showcase my journey through the tech world.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+👨‍💻 Java, JavaScript
+⚙️ Node.js
+👁️ CSS, HTML
+💽 MySQL, SQL, Mongo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Repository Highlights
+
+- **Software University Exercises**: Here, you'll find my solutions to exercises I've completed while studying at Software University.
+
+- **Personal Projects**: I'm not just about coursework; I also enjoy working on personal projects. You'll find a collection of projects where I've put my skills into practice.
+
+## 🌐 Let's Connect
+
+[![Email]](mailto:aldpeev@gmail.com)
