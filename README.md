@@ -6,7 +6,7 @@ This is my GitHub space, where I showcase my journey through the tech world.
 - 👨‍💻 Java, JavaScript
 - ⚙️ Node.js
 - 👁️ CSS, HTML
-- 💽 MySQL, SQL, Mongo
+- 💽 MySQL, SQL
 
 ## 📚 Repository Highlights
 
