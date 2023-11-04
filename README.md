@@ -16,4 +16,4 @@ This is my GitHub space, where I showcase my journey through the tech world.
 
 ## 🌐 Let's Connect
 
-[![Email]](mailto:aldpeev@gmail.com)
+[Email](mailto:aldpeev@gmail.com)
