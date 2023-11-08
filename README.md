@@ -16,5 +16,5 @@ This is my GitHub space, where I showcase my journey through the tech world.
 
 ### GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldpeev&layout=compact&hide_border=true" /> |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldpeev&layout=compact&hide_border=true" />
 
