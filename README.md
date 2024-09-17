@@ -3,9 +3,12 @@
 This is my GitHub space, where I showcase my journey through the tech world.
 
 ## 🔧 Skills
-- 👨‍💻 Java, JavaScript
+- 👨‍💻 Java
+- 👨‍💻 JavaScript
 - ⚙️ Node.js
 - 👁️ CSS, HTML
+- ⚙️ MySql
+- ⚙️ Hibernate
 - 🔨 Currently expanding skill set in progress
 
 ## 📚 Repository Highlights
